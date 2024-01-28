@@ -1,6 +1,6 @@
 # tax_calculator
 
-## Very Simple interactive UI Used
+## Very Simple UI Used
 
 How to Use:
 Run the Script: You need to run this script in a Python environment that supports tkinter. Most standard Python installations include tkinter.
