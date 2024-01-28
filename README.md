@@ -2,7 +2,8 @@
 
 ## Very Simple UI Used
 
-How to Use:
+### How to Use:
+
 Run the Script: You need to run this script in a Python environment that supports tkinter. Most standard Python installations include tkinter.
 
 Enter Gross Salary: Once the UI is up, enter the gross salary in pounds (£) in the provided field.
