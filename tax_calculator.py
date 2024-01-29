@@ -53,8 +53,7 @@ def calculate_and_display_net_salary():
 root = tk.Tk()
 root.title("UK Tax Calculator")
 
-# creating fixed geometry of the
-# tkinter window with dimensions 150x200
+# creating fixed geometry dimensions of the tkinter window
 root.geometry('300x150')
 
 # Create and place widgets
