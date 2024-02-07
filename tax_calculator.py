@@ -1,5 +1,6 @@
 # tax calculator program
 # a program that calculates the net salary of an individual in the UK
+# Disclaimer: This program does a broad calculation
 
 import tkinter as tk
 
