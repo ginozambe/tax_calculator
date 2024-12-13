@@ -11,3 +11,7 @@ Enter Gross Salary: Once the UI is up, enter the gross salary in pounds (£) in 
 Calculate: Click the "Calculate" button to compute the net salary.
 
 View Results: The net salary, after tax deductions based on the UK tax system, will be displayed.
+
+### Final Result
+
+ ![Analysis](<UI_example.png>)
